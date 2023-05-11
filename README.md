@@ -1,1 +1,2 @@
 # pancakebot
+Trading bot
